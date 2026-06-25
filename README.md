@@ -1,4 +1,8 @@
 # Customer Spending Prediction using PySpark
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![PySpark](https://img.shields.io/badge/PySpark-3.4.1-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 
 ## Project Overview
 This project predicts total customer spending using transaction data from a UK-based online retailer. The dataset contains **541,909 records** across 8 columns.
